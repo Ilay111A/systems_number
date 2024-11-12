@@ -26,7 +26,6 @@ string in_10(string str, int index)
     }
     if(index == 0)
     {
-        cout<<str<<endl;
         for(int i = 0; i < str.length(); i++)
         {
             for(int b = 0; b < alpha.length(); b++)
